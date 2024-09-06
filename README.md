@@ -1,2 +1,1 @@
 # First hexlet javascript project
-
