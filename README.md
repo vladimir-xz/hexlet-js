@@ -1,2 +1,2 @@
-# hexlet-js
-Learning JS
+# First hexlet javascript project
+
